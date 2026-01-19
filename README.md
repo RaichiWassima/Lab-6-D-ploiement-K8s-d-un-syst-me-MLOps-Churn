@@ -4,7 +4,7 @@ This lab demonstrates a full MLOps deployment pipeline using Docker + Kubernetes
 
 ---
 
-## 🚀 Objectives
+## Objectives
 
 - Containerize a FastAPI Machine Learning service
 - Deploy it on Kubernetes via Minikube
